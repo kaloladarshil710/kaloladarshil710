@@ -28,7 +28,7 @@
 A.V.Parekh Technical Institute, Rajkot (2024 - 2025)
 
 ## Skills
-- **Programming Languages:** Dart, PHP, JavaScript, HTML, CSS
+- **Programming Languages:** Dart,Java,XML, PHP, JavaScript, HTML, CSS
 - **Frameworks:** Flutter
 - **Tools:** Visual Studio Code, Git, Firebase, Android Studio
 
