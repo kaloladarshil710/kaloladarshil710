@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 I’m interested in **app development**.
-- 🌱 I’m currently learning **Flutter & Dart**.
+- 🌱 I’m currently learning **Python**.
 - 💞️ I’m looking to collaborate on projects that leverage technology to create innovative solutions and enhance user experiences.
 - 📫 How to reach me: **kaloladarshil710@gmail.com**
 - 😄 Pronouns: **He/Him**
@@ -35,7 +35,7 @@ A.V.Parekh Technical Institute, Rajkot (2024 - 2025)
 ## Get in Touch
 Feel free to reach out to me through:
 - 📧 [Email](mailto:kaloladarshil710@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/kalola-darshil-9b45612a8)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/darshil-kalola)
 
 ## Fun Facts
 - ⚡ I can solve a Rubik's Cube in under a minute.
